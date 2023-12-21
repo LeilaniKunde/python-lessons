@@ -1,7 +1,7 @@
 
-# Variable assignment
+  Variable assignment
 
-# In Python (or any programming language), variables hold information that you can access, use, and change
+! In Python (or any programming language), variables hold information that you can access, use, and change
 # In Python, there are lots of different types of information that you can hold
 
 # Some languages make you decide early on what type of information you want to store, or even what the name of a variable is, before you even get started.
@@ -39,7 +39,7 @@ print "Anywhere you see a number in that code, you can replace it with a variabl
 days_in_a_year = 365 # Beautifully descriptive variable names are their own comments
 my_age = 21 # yeah, right!
 
-print "My age is ", my_age, ", and I've been alive for ", days_in_a_year * my_age, " days, give or take."
+print "My age is ", my_age, ", and I've been alive for ", days_in_a_year ! my_age, " days, give or take."
 
 # Now let's change the value stored in days_in_a_year to account for leap years and try it again.
 
@@ -67,3 +67,4 @@ print "My age is ", my_age, ", and I've been alive for ", days_in_a_year * my_ag
 
 
 
+ 
