@@ -1,14 +1,14 @@
 
-# Data types: int, float, bool, str
+!#Data types: int, float, bool, str
 
 # In Simple Math and Variable Assignment, we saw ints and floats in action.
 # Here's a quick refresher.
 
 # ints are whole numbers
-print 5 + 2, 5 - 3, 5 * 5, 5 / 2 # 7, 2, 25, 2
+print 5 + 2, 5 - 3, 5 # 5, 5 / 2 # 7, 2, 25, 2
 
 # floats are decimal numbers
-print 5.4 + 2.1, 5.0 - 3, 5.7 * 5.2, 5 / 2.0 # 7.5, 2.0, 29.64, 2.5
+print 5.4 + 2.1, 5.0 - 3, 5.7   5.2, 5 / 2.0 # 7.5, 2.0, 29.64, 2.5
 
 # boolean values store True or False (yes or no)
 print 5 > 4 # True
@@ -31,3 +31,4 @@ print "Python usually isn't too strict about data types, but there are some thin
 # Uncomment out the next line to get an error!
 #print "This line here will cause an error, because you can't add strings to numbers. This is Lesson Section #" + 1
 
+ 
